@@ -43,5 +43,10 @@
   },
   "bugs": {
     "url": "https://github.com/colbyfayock/gatsby-starter-takeshape-startup/issues"
+  },
+  "config": {
+    "commitizen": {
+      "path": "cz-emoji"
+    }
   }
 }
